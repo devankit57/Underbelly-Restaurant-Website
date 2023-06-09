@@ -7,12 +7,15 @@ UnderBelly VIT Bhopal is in Bhopal, India. ... A to Z of a healthy diet to help 
 <br>
 This is just front-end  and built using HTML, CSS, and JavaScript.
 
+Live : <a href="https://devankit57.github.io/Underbelly-Restaurant-Website/">Click Here</a>
+
 <h2><b>Getting Started </b></h2>
 <br>
 To use  the  website code, follow these steps:
 <br>
 Clone the repository and use it
-  
+
+git clone https://github.com/devankit57/Underbelly-Restaurant-Website.git
 
 <br>
 <b><h2>Application Features</h2></b>
